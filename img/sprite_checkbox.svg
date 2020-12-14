@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+	<g stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+		<g>
+			<rect fill="#fff" stroke="#eb8c91" width="16" height="16" y="1" x="1" rx="2" ry="2" />
+			<g>
+				<rect fill="#eb8c91" stroke="#eb8c91" height="16" width="16" y="1" x="19" ry="2" rx="2" />
+				<polyline fill="none" stroke="#fff" points="23,9 26,12 31,6" />
+			</g>
+		</g>
+		<g>
+			<rect fill="#fff" stroke="#a5839b" height="16" width="16" y="19" x="1" ry="2" rx="2" />
+			<g>
+				<rect fill="#a5839b" stroke=" #a5839b" width="16" height="16" x="19" y="19" ry="2" rx="2" />
+				<polyline fill="none" stroke="#fff" points="23,27 26,30 31,24" />
+			</g>
+		</g>
+	</g>
+</svg>
