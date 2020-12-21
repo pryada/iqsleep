@@ -10,7 +10,7 @@
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <link rel="preload" as="image" type="image/svg+xml" href="img/sprite.svg">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&amp;family=Nunito:wght@400;600;700&amp;display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="css/style.min.css?1608226387403">
+    <link rel="stylesheet" href="css/style.min.css?1608560312825">
   </head>
   <body>
     <header class="header">
@@ -242,6 +242,6 @@
         <p class="small-text text-center">Осуществляя заказ вы&nbsp;соглашаетесь с&nbsp;условиями использования сервиса и&nbsp;<a href="#">Политикой обработки персональных данных</a></p>
       </div>
     </div>
-    <script src="js/script.min.js?1608226387403"></script>
+    <script src="js/script.min.js?1608560312825"></script>
   </body>
 </html>
